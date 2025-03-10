@@ -1,4 +1,4 @@
-# Azure Fundamentals
+# Notas de estudio para la certificación Azure Fundamentals (AZ-900)
 
 ## Descripción de los conceptos de la nube
 
@@ -25,3 +25,10 @@
 - Descripción de la plataforma como servicio (PaaS)
 - Descripción del software como servicio (SaaS)
 - Identificación de los casos de uso adecuados para cada tipo de servicio en la nube (IaaS, PaaS y SaaS)
+
+
+## Recursos de Estudio para la Certificación
+
+[Certificación Azure Fundamentals](https://learn.microsoft.com/es-es/credentials/certifications/azure-fundamentals/?source=recommendations&practice-assessment-type=certification)
+
+[Guia de estudio para el examen AZ-900](https://learn.microsoft.com/es-mx/credentials/certifications/resources/study-guides/az-900)
