@@ -89,3 +89,5 @@ Una estrategia sólida de **seguridad y gobernanza en la nube** permite mantener
     - Con una interfaz de línea de comandos básica.
     - Mediante las API.
     - Mediante PowerShell.
+
+[Azure Fundamentals](../README.md)

@@ -110,3 +110,5 @@ La elección del servicio adecuado depende de los objetivos y recursos de cada o
 
 ## Modelo de responsabilidad compartida
 ![responsabilidad_compartida](https://learn.microsoft.com/es-mx/training/wwl-azure/describe-cloud-service-types/media/shared-responsibility-b3829bfe.svg)
+
+[Azure Fundamentals](../README.md)
