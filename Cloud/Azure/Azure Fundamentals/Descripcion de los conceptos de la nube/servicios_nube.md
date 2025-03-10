@@ -105,8 +105,8 @@ Cada modelo de servicio en la nube se adapta a diferentes necesidades empresaria
 
 La elección del servicio adecuado depende de los objetivos y recursos de cada organización.
 
-### Servicios que pueden ejecutarse en cada uno de los modelos de servicio
+## Servicios que pueden ejecutarse en cada uno de los modelos de servicio
 ![modelos_de_servicio](https://docs.microsoft.com/es-mx/training/azure-fundamentals/fundamental-azure-concepts/media/iaas-paas-saas-expanded.png#lightbox)
 
-### Modelo de responsabilidad compartida
+## Modelo de responsabilidad compartida
 ![responsabilidad_compartida](https://learn.microsoft.com/es-mx/training/wwl-azure/describe-cloud-service-types/media/shared-responsibility-b3829bfe.svg)

@@ -36,7 +36,7 @@ El modelo de responsabilidad compartida está muy vinculado a los tipos de servi
 El modelo de servicio determinará la responsabilidad de cosas como lo siguiente:
 - Sistemas operativos.
 - Controles de red.
-- APLICACIONES.
+- Aplicaciones.
 - Identidad e infraestructura.
 
 ## Definición de modelos de nube, incluidos públicos, privados e híbridos
@@ -153,5 +153,4 @@ Al seleccionar un modelo de precios en la nube, es importante considerar:
 
 Se superpone a PaaS y permite que los desarrolladores creen aplicaciones más rápidamente, ya que elimina la necesidad de administrar la infraestructura. el proveedor de servicios en la nube aprovisiona, escala y administra automáticamente la infraestructura necesaria para ejecutar el código tambien ayuda a los equipos a aumentar su productividad y a comercializar los productos con más rapidez. Permite que las organizaciones optimicen mejor los recursos y se centren en la innovación. 
 
-Las arquitecturas sin servidorson altamente escalables y controladas por eventos. Solo usan 
-recursos cuando se produce una función o un desencadenador específico.
+Las arquitecturas sin servidorson altamente escalables y controladas por eventos. Solo usan recursos cuando se produce una función o un desencadenador específico.

@@ -76,7 +76,6 @@ La seguridad y la gobernanza en la nube son elementos esenciales para garantizar
 
 Una estrategia sólida de **seguridad y gobernanza en la nube** permite mantener la infraestructura segura, cumplir con regulaciones y optimizar la administración de recursos. Dependiendo del modelo de servicio (*IaaS, PaaS o SaaS*), las empresas pueden elegir entre un **control total de seguridad** o una **gestión automatizada con seguridad administrada por el proveedor**.
 
-
 ## Descripción de las ventajas de la capacidad de administración en la nube
 
 - **Administración de la nube**: Trata sobre administrar los recursos en la nube.
