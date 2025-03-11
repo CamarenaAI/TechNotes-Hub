@@ -1,6 +1,6 @@
-# Almacenamiento de archivos
+# Identificación de las opciones de almacenamiento de datos
 
-## Formatos de archivo comunes
+## Descripción de los formatos comunes para los archivos de datos
 
 - **Archivos de texto delimitado** \
 Se almacenan como texto sin formato con delimitadores de campo y terminadores de fila específicos
@@ -29,7 +29,7 @@ Almacenan los datos como datos binarios sin formato que las aplicaciones deben i
 Los tipos comunes de datos almacenados como datos binarios incluyen imágenes, vídeo, audio y documentos específicos de aplicaciones \
 Cuando trabajan con datos de este tipo, los profesionales de datos suelen hacer referencia a estos archivos de datos como BLOB (Binary Large Objects)
 
-## Tipos de Bases de Datos
+## Descripción de los tipos de bases de datos
 
 - **Bases de datos relacionales** \
 Suelen usarse para almacenar y consultar datos estructurados \
@@ -49,4 +49,4 @@ Hay cuatro tipo de bases de datos no relacionales que se usan habitualmente:
                                                  Cada familia de columnas contiene un conjunto de columnas que tienen una relación lógica entre sí
     - **Bases de datos de grafos**: Almacenan entidades como nodos con vínculos para definir relaciones entre ellas
 
-    [Fundamentos de Datos Azure](https://github.com/CamarenaAI/Cloud-Fundamentals/tree/main/Azure/DP-900:%20Fundamentos%20de%20Datos%20Azure)
+[Azure Data Fundamentals](../README.md)

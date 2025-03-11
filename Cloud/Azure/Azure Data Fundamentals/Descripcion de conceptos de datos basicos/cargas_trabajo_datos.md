@@ -1,6 +1,6 @@
-# Procesamiento de datos
+# Descripción de las cargas de trabajo de datos comunes
 
-## Procesamiento de datos transaccionales
+## Descripción de las características de las cargas de trabajo transaccionales
 
 Función principal de la informática empresarial \
 Un sistema transaccional registra las transacciones que encapsulan eventos específicos de los que la organización quiere realizar un seguimiento \
@@ -19,7 +19,7 @@ Estas operaciones se aplican transaccionalmente, de una forma que garantiza la i
 
 Los sistemas OLTP suelen usarse para admitir aplicaciones activas que procesan datos empresariales, a menudo denominadas aplicaciones _**Line Of Business (LOB)**_
 
-## Procesamiento de datos analíticos
+## Descripción de las características de las cargas de trabajo analíticas
 
 Usa sistemas de solo lectura (o principalmente de lectura) que almacenan grandes volúmenes de datos históricos o métricas empresariales \
 Los análisis pueden basarse en una instantánea de los datos en un momento concreto o en una serie de instantáneas
@@ -50,4 +50,4 @@ previamente, las consultas para devolver los resumenes que contiene se pueden ej
 - Los _**analistas de datos**_ pueden consultar tablas directamente en el almacenamiento de datos para generar informes y visualizaciones complejos
 - _**Los usuarios profesionales**_ pueden consumir datos agregados previamente en un modelo analítico como informes o paneles
 
-[Fundamentos de Datos Azure](https://github.com/CamarenaAI/Cloud-Fundamentals/tree/main/Azure/DP-900:%20Fundamentos%20de%20Datos%20Azure)
+[Azure Data Fundamentals](../README.md)
