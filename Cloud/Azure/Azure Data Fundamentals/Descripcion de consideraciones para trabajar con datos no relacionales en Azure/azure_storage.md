@@ -1,6 +1,6 @@
-# Azure Storage
+# Descripción de las funcionalidades de Azure Storage
 
-## Azure Blob Storage
+## Descripción de Azure Blob Storage
 Servicio que le permite almacenar grandes cantidades de datos no estructurados como objetos binarios grandes, o blobs, en la nube. Los BLOBs se almacenan en contenedores.
 - Contenedor: Manera cómoda de agrupar blobs relacionados. Puede controlar quién puede leer y escribir blobs dentro de un contenedor en el nivel de contenedor
 
@@ -44,7 +44,7 @@ Puede hacerlo al crear inicialmente la cuenta de almacenamiento, o bien puede ac
 La actualización es un proceso unidireccional: después de actualizar una cuenta de almacenamiento para que admita un espacio de nombres jerárquico de almacenamiento de blobs, 
 no se puede revertir a espacio de nombres plano
 
-## Azure Files Storage
+## Descripción de Azure File Storage
 Manera de crear recursos compartidos de red basados en la nube, para que los documentos y otros archivos estén a disposición de varios usuarios.
 Permite compartir hasta 100 TB de datos en una sola cuenta de almacenamiento. El tamaño máximo de un solo archivo es de 1 TB, 
 se puede establecer cuotas para limitar el tamaño de cada recurso compartido por debajo de esta cifra
@@ -59,7 +59,7 @@ se puede establecer cuotas para limitar el tamaño de cada recurso compartido po
 - Bloque de mensajes del servidor (SMB): Windows, Linux, MacOs
 - Network File System (NFS): Linux y MacOS, cuenta premium. Crear y configurar una red virtual
 
-## Azure Table Storage
+## Descripción de Azure Table Storage
 Solución de almacenamiento NoSQL que usa tablas que contienen elementos de datos de clave-valor.
 ![Azure Table Storage](https://learn.microsoft.com/es-mx/training/wwl-data-ai/explore-provision-deploy-non-relational-data-services-azure/media/azure-tables.png)
 
@@ -70,4 +70,4 @@ Permite almacenar datos semiestructurados. Todas las filas de una tabla deben te
 Los datos en Azure Table Storage se desnormalizan y cada fila contiene los datos completos de una entidad lógica, 
 Azure Table Storage divide una tabla en particiones, para agrupar filas relacionadas según una propiedad común o clave de partición
 
-[Fundamentos de Datos Azure](https://github.com/CamarenaAI/Cloud-Fundamentals/tree/main/Azure/DP-900:%20Fundamentos%20de%20Datos%20Azure)
+[Azure Data Fundamentals](../README.md)
