@@ -18,7 +18,6 @@ Usan una amplia gama de tecnologías de plataforma de datos, como bases de datos
 También son responsables de garantizar que la privacidad de los datos se mantenga dentro de la nube y que abarque desde el entorno local hasta los almacenes de datos en la nube. \
 Se ocupan de la administración y la supervisión de canalizaciones de datos para asegurarse de que las cargas de datos funcionen según lo previsto.
 
-
 ## Descripción de las responsabilidades de los analistas de datos
 Exploran y analizan los datos con el fin de crear visualizaciones y gráficos que permiten que las organizaciones tomen decisiones fundamentadas \
 Ayuda a las empresas a maximizar el valor de sus recursos de datos. \
@@ -26,4 +25,4 @@ Son responsables de explorar datos para identificar tendencias y relaciones, dis
 
 Los analistas de datos se ocupan del procesamiento de los datos sin procesar para convertirlos en información pertinente, en función de los requisitos empresariales establecidos, con el fin de ofrecer conclusiones de interés
 
-[Fundamentos de Datos Azure](https://github.com/CamarenaAI/Cloud-Fundamentals/tree/main/Azure/DP-900:%20Fundamentos%20de%20Datos%20Azure)
+[Azure Data Fundamentals](../README.md)
