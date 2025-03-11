@@ -1,6 +1,6 @@
-# Servicios de datos relacionales de Azure
+# Descripción de Azure Data Services relacional
 
-## Azure SQL
+## Describir la familia de productos de Azure SQL, como Azure SQL Database, Azure SQL Managed Instance y SQL Server en Azure Virtual Machines
 Es un término colectivo para referirse a una familia de servicios de base de datos basados en Microsoft SQL Server en Azure. \
 Los servicios específicos de Azure SQL incluyen los siguientes:
 
@@ -50,7 +50,7 @@ se ejecuta en Azure con una instalacion de SQL Server. permite usar versiones co
 | Administración | Debe administrar todos los aspectos del servidor, incluidos el sistema operativo y SQL Server, la configuración, las copias de seguridad y otras tareas de mantenimiento | Actualizaciones, copias de seguridad y recuperación totalmente automatizados | Actualizaciones, copias de seguridad y recuperación totalmente automatizados |
 | Casos de uso | Use esta opción cuando necesite migrar o ampliar una solución de SQL Server local y conservar el control total sobre todos los aspectos de la configuración del servidor y la base de datos | Use esta opción para la mayoría de los escenarios de migración a la nube, especialmente cuando necesite cambios mínimos en las aplicaciones existentes | Use esta opción para nuevas soluciones en la nube o para migrar aplicaciones que tengan dependencias mínimas de instancia |
 
-## Servicios de base de datos de Azure para sistemas de base de datos de código abierto
+## Identificación de los servicios de base de datos de Azure para sistemas de base de datos de código abierto
 - **Azure Database for MySQL** (LAMP) \
 Implementación PaaS de MySQL en la nube de Azure \
 Proporciona un sistema de base de datos global que se puede escalar verticalmente a bases de datos grandes sin necesidad de administrar el hardware, 
@@ -69,4 +69,4 @@ Implementación del sistema de administración de bases de datos MariaDB adaptad
 Compatibilidad integrada con los datos temporales. 
 Una tabla puede contener varias versiones de datos, lo que permite que una aplicación consulte los datos tal y como aparecían en algún momento del pasado
 
-[Fundamentos de Datos Azure](https://github.com/CamarenaAI/Cloud-Fundamentals/tree/main/Azure/DP-900:%20Fundamentos%20de%20Datos%20Azure)
+[Azure Data Fundamentals](../README.md)
