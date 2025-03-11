@@ -1,6 +1,6 @@
-# Describir la visualización de datos en Microsoft Power BI
+# Descripción de la visualización de datos en Microsoft Power BI
 
-## Identificar las capacidades de Power BI
+## Identificación de las funcionalidades de Power BI
 ### **Microsoft Power BI** 
 Conjunto de herramientas y servicios que los analistas de datos pueden usar para crear visualizaciones de datos interactivas para consumo por parte de usuarios profesionales.
 
@@ -11,9 +11,9 @@ Conjunto de herramientas y servicios que los analistas de datos pueden usar para
 - **Aplicacion movil de Power BI**: Los usuarios pueden consumir informes, paneles y aplicaciones en el servicio Power BI
 
 
-## Características de los modelos de datos en Power BI
+## Descripción de las características de los modelos de datos en Power BI
 
 
-## Identificar visualizaciones apropiadas para los datos
+## Identificación de las visualizaciones adecuadas para los datos
 
-[Fundamentos de Datos Azure](https://github.com/CamarenaAI/Cloud-Fundamentals/tree/main/Azure/DP-900:%20Fundamentos%20de%20Datos%20Azure)
+[Azure Data Fundamentals](../README.md)

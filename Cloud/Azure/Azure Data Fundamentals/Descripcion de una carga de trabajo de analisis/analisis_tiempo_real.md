@@ -1,6 +1,6 @@
-# Describir la consideración para el análisis de datos en tiempo real
+# Descripción de la consideración para el análisis de datos en tiempo real
 
-## Describir la diferencia entre datos por lotes y datos de streaming
+## Diferencia entre los datos de streaming y por lotes
 
 ### Procesamiento por lotes
 Se recopilan y almacenan varios registros de datos antes de procesarse juntos en una sola operacion
@@ -17,7 +17,7 @@ Cada nuevo fragmento se procesa cuando llega
 | Rendimiento | La latencia suele ser de unas horas | Se produce inmediatamente, con la latencia en segundos o milisegundos |
 | Analisis | Realizar analisis complejos | Funciones de respuesta simples, agregaciones o calculos |
 
-## Tecnologias para el analisis en tiempo real
+## Identificación de los servicios en la nube de Microsoft para el análisis en tiempo real
 - **Azure Stream Analytics** \
 Servicio de análisis en tiempo real basado en la nube que permite procesar grandes cantidades de datos de flujo continuo en tiempo real para obtener información valiosa 
 y tomar decisiones en tiempo real. \
@@ -49,4 +49,4 @@ Este módulo utiliza la abstracción de "DataFrames" y "Datasets" de Spark para 
 
     Spark Structured Streaming es un módulo de procesamiento en tiempo real altamente escalable y tolerante a fallos que permite procesar y transformar datos de flujo continuo con la misma API que se utiliza para procesar datos estáticos. Esto permite a los usuarios trabajar con datos de streaming en tiempo real de manera más eficiente y sencilla
 
-[Fundamentos de Datos Azure](https://github.com/CamarenaAI/Cloud-Fundamentals/tree/main/Azure/DP-900:%20Fundamentos%20de%20Datos%20Azure)
+[Azure Fundamentals](../README.md)
