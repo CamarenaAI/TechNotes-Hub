@@ -15,22 +15,27 @@ Este repositorio es un espacio donde documento lo que estoy aprendiendo y reforz
 
 ## 🏗 Áreas de Aprendizaje  
 
-### 🔹 Lenguajes y Frameworks  
+### 🔹 Programación 
 - [**Linux**](/Linux/)
-- **Python**   
-- **SQL**  
+- [**Python**]()   
+
+---
+### 🔹 Bases de datos
+- [**SQL**]()
+- [**NoSQL**]()
 
 ---
 
 ### ☁️ Cloud Computing  
 - **Azure**
-    - [**AZ-900: Azure Fundamentals**]()
-    - [**DP-900: Azure Data Fundamentals**](/Cloud/Azure/DP-900:%20Fundamentos%20de%20Datos%20Azure)
+    - [**AZ-900: Azure Fundamentals**](/Cloud/Azure/Azure%20Fundamentals/)
+    - [**DP-900: Azure Data Fundamentals**](/Cloud/Azure/Azure%20Data%20Fundamentals/)
     - [**DP-203: Azure Data Enginner**]()
 - **AWS**
     - [**AWS Certified Cloud Practitioner (CLF-C02)**]()
 - **GCP**
     - [**GCP Cloud Digital Leader**]()
+- [**Snowflake**]()
 
 ---
 
